@@ -1,0 +1,5 @@
+name: CommandBuilder
+version: 1.0
+author: unrecht
+
+main: de.unrecht.commandbuilder.CommandBuilder
